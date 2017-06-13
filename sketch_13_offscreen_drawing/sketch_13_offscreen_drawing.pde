@@ -35,8 +35,8 @@ void draw() {
     x = 0;
     y += random(32, 64);
     if(y > height) {
-      y =0;
-      fill(255, 32);
+      y = 0;
+      fill(0);
       noStroke();
       rect(0, 0, width, height);
     }
