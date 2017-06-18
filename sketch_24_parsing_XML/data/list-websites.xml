@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<websites>
+	<website id="1" url="https://www.codingame.com/start">CodinGame</website>
+	<website id="2" url="https://codecombat.com/play">Code Combat</website>
+	<website id="3" url="https://screeps.com/">Screeps</website>
+	<website id="4" url="https://checkio.org/">Check iO</website>
+	<website id="5" url="https://vim-adventures.com/">Vim Adventures</website>
+	<website id="6" url="http://www.cyber-dojo.org/">Cyber DoJo</website>
+	<website id="7" url="https://www.playcodemonkey.com/">Code Monkey</website>
+	<website id="8" url="http://play.elevatorsaga.com/">Elevator Saga</website>
+	<website id="9" url="https://www.codewars.com/">Codewars</website>
+	<website id="10" url="https://www.git-game.com/">Git Game</website>
+	<website id="11" url="http://www.hacker.org/">Hacker</website>
+	<website id="12" url="http://www.hexinvaders.com/">Hex Invaders</website>
+	<website id="13" url="http://flexboxfroggy.com/">Flexbox Froggy</website>
+	<website id="14" url="http://pixact.ly">Pixactly</website>
+	<website id="15" url="https://flukeout.github.io/">CSS Diner</website>
+	<website id="16" url="http://www.flexboxdefense.com/">Flexbox Defense</website>
+	<website id="17" url="https://alexnisnevich.github.io/untrusted/">Untrusted</website>
+	<website id="18" url="http://www.dungeonsanddevelopers.com/">Dungeons and Developers</website>
+</websites>
